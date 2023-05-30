@@ -1,3 +1,4 @@
+``` hcl
 Running a nginx docker container using terraform
 
 Install Terraform in Ubuntu
@@ -52,3 +53,4 @@ To stop the container, run terraform destroy terraform destroy
  $ terraform destroy
 
 Terraform to build Nginx Docker Container running on Docker for Ubuntu.
+```
